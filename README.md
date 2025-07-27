@@ -51,3 +51,4 @@ Finally, the list of features can be reduced significantly to include only ‘ta
 ## Links:
 Notebook: https://github.com/NaglaJ/Capstone-Music-Genre-Classifier/blob/c44b518b3b5b2bac43a417041612f98e883017b7/Music%20Genre%20Classifier.ipynb
 Data: kagglehub.dataset_download("undefinenull/million-song-dataset-spotify-lastfm"); songdata.csv (https://github.com/NaglaJ/Capstone-Music-Genre-Classifier/blob/main/songdata.csv)
+Final report:  https://github.com/NaglaJ/Capstone-Music-Genre-Classifier/blob/main/Elbassioni%20Capstone%20Project_Final%20Report.pdf
